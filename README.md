@@ -57,9 +57,30 @@ I'm a passionate and dedicated student at Chongqing University of Posts and Tele
 
 ### ✨ My Projects & Experience
 
-#### 🤖 Ongoing Open Source Project
-*   **Project Title:** Will be updated soon!
-*   **Description:** I am actively preparing to launch an open-source project. This space will be updated with details about the project, its goals, and how you can contribute. Stay tuned to see how I'm getting involved in the developer community! 🚀
+#### 🤖 "Spacetime Spinor" Intelligent Table Tennis Motion Analysis System | `Project Lead`
+*   **Competition:** 16th Service Outsourcing Innovation and Entrepreneurship Competition (Baidu Track)
+*   **Duration:** Mar 2025 - May 2025
+*   **Contributions:**
+    *   Led the team in developing solutions for temporal action detection, high-speed ball tracking, and RAG-based analysis.
+    *   Achieved an 86.3% average confidence in athlete action detection using a combination of `PP-TSM`, `VGGish`, `BMN`, and `Attention-LSTM`.
+    *   Implemented `PP-PicoDet` for tracking and used a Large Model + RAG to generate personalized training advice.
+*   **Achievement:** 🥉 Bronze Award, Western Region.
+
+#### 🔧 Lightweight Intelligent Image Denoising Algorithm | `Independent R&D`
+*   **Competition:** ZTE "Pěng Yuè" Cup
+*   **Duration:** Mar 2025 - May 2025
+*   **Contributions:**
+    *   Designed a novel algorithm for image denoising in complex scenarios (e.g., low-light, motion blur) under strict 30G MACs computational constraints.
+    *   Developed an improved U-Net architecture incorporating `NAFBlock`, progressive training, and a dynamic composite loss function.
+    *   Optimized edge details through a patch-based enhancement and weighted fusion strategy.
+*   **Achievement:** Ranked top-tier, achieving a PSNR of 22.85dB and SSIM of 0.902 on the official test set.
+
+#### 🦾 Automation of 3D Human Structure Animation Binding | `Point Cloud Network Algorithm Engineer`
+*   **Competition:** Jittor AI Challenge
+*   **Duration:** Apr 2025 - Present
+*   **Contributions:**
+    *   Developing an end-to-end model to automate the prediction of skeletal structures and skinning weights from static 3D meshes, replacing the manual rigging process.
+    *   Improving upon `PointTransformerV3` with point cloud serialization and a serialized attention mechanism to enhance the model's receptive field and topological understanding.
 
 ---
 
