@@ -66,30 +66,29 @@ I'm a passionate and dedicated student at Chongqing University of Posts and Tele
 
 ### ✨ My Projects & Experience
 
-#### 🤖 "Spacetime Spinor" Intelligent Table Tennis Motion Analysis System | `Project Lead`
-*   **Competition:** 16th Service Outsourcing Innovation and Entrepreneurship Competition (Baidu Track)
-*   **Duration:** Mar 2025 - May 2025
-*   **Contributions:**
-    *   Led the team in developing solutions for temporal action detection, high-speed ball tracking, and RAG-based analysis.
-    *   Achieved an 86.3% average confidence in athlete action detection using a combination of `PP-TSM`, `VGGish`, `BMN`, and `Attention-LSTM`.
-    *   Implemented `PP-PicoDet` for tracking and used a Large Model + RAG to generate personalized training advice.
-*   **Achievement:** 🥉 Bronze Award, Western Region.
+#### 🤖 “时空旋量”智能乒乓球运动分析系统 | `项目负责人`
+*   **赛事:** 第十六届服务外包创新创业大赛（企业A类-百度赛道）
+*   **时间:** 2025年3月 - 2025年5月
+*   **工作内容:**
+    *   作为项目负责人,负责团队内时序动作检测、高速乒乓球轨迹追踪、大模型微调和RAG设计任务的管理。
+    *   参与时序动作检测任务，采用PP-TSM及VGGish对视频进行特征提取、结合BMN边界匹配算法对时序动作定位，Attention-LSTM对动作分类，实现运动员动作检测置信度平均达到86.3%以上。
+    *   使用PP-PicoDet实现高速目标轨迹追踪、文心大模型+RAG生成个性化训练建议。
+*   **成就:** 🥉 西部赛区铜奖
 
-#### 🔧 Lightweight Intelligent Image Denoising Algorithm | `Independent R&D`
-*   **Competition:** ZTE "捧月" Cup
-*   **Duration:** Mar 2025 - May 2025
-*   **Contributions:**
-    *   Designed a novel algorithm for image denoising in complex scenarios (e.g., low-light, motion blur) under strict 30G MACs computational constraints.
-    *   Developed an improved U-Net architecture incorporating `NAFBlock`, progressive training, and a dynamic composite loss function.
-    *   Optimized edge details through a patch-based enhancement and weighted fusion strategy.
-*   **Achievement:** Ranked top-tier, achieving a PSNR of 22.85dB and SSIM of 0.902 on the official test set.
+#### 🔧 轻量化智能图像去噪算法研发 | `独立研发`
+*   **赛事:** 中兴捧月大赛
+*   **时间:** 2025年3月 - 2025年5月
+*   **工作内容:**
+    *   项目针对复杂场景（逆光、低光照、运动模糊等）下的图像去噪与清晰度提升任务，在30G MACs算力约束（720P输入）下设计算法，满足PSNR与视觉质量双重要求。
+    *   改进型U-Net架构，引入NAFBlock轻量模块，设计渐进式训练流程、结合复合损失函数（动态加权CharbonnierLoss与MS-SSIMLoss）提升模型泛化能力。采用TLCTLC的模型优化策略、将输入图像分块增强后加权融合，优化边缘细节。
+*   **成就:** 在官方测试集实现PSNR 22.85dB、SSIM 0.902，MACs 29.3G，**综合排名第7**。
 
-#### 🦾 Automation of 3D Human Structure Animation Binding | `Point Cloud Network Algorithm Engineer`
-*   **Competition:** Jittor AI Challenge
-*   **Duration:** Apr 2025 - Present
-*   **Contributions:**
-    *   Developing an end-to-end model to automate the prediction of skeletal structures and skinning weights from static 3D meshes, replacing the manual rigging process.
-    *   Improving upon `PointTransformerV3` with point cloud serialization and a serialized attention mechanism to enhance the model's receptive field and topological understanding.
+#### 🦾 三维人体结构动画绑定自动化 | `点云网络算法工程师`
+*   **赛事:** “计图人工智能挑战赛”
+*   **时间:** 2025年4月 - 至今
+*   **工作内容:**
+    *   负责三维人体网格自动绑定项目，旨在替代传统3D动画流程中耗时巨大的人工Rigging环节。
+    *   输入静态三维网格，通过设计点云处理模型端到端地预测其骨骼节点空间位置与蒙皮权重。
 
 ---
 
