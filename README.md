@@ -21,17 +21,26 @@ I'm a passionate and dedicated student at Chongqing University of Posts and Tele
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 
+<h4>Languages</h4>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="shell" width="40" height="40"/> </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
+</p>
+
+<h4>Frameworks & Tools</h4>
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://www.paddlepaddle.org.cn/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/paddlepaddle.svg" alt="paddlepaddle" width="40" height="40"/> </a>
+  <strong>Jittor, SPSS</strong>
 </p>
 
 ---
@@ -81,6 +90,28 @@ I'm a passionate and dedicated student at Chongqing University of Posts and Tele
 *   **Contributions:**
     *   Developing an end-to-end model to automate the prediction of skeletal structures and skinning weights from static 3D meshes, replacing the manual rigging process.
     *   Improving upon `PointTransformerV3` with point cloud serialization and a serialized attention mechanism to enhance the model's receptive field and topological understanding.
+
+---
+
+### 🧑‍💻 Student Work & Leadership
+
+#### 蓝山工作室-研发部 | Member 🏢
+*   **(Jul 2024 - Present)**
+*   As a member of the Python R&D department in a student technical team guided by the school's Information Office, I assist in the school's informatization construction.
+*   Taught public courses to new students on Python algorithms, data science, and deep learning.
+*   Participated in the algorithm design for the school's **graduate job recommendation system (based on LLM)**.
+
+#### HXC战队-视觉组 | Team Member 👁️
+*   **(Nov 2023 - Aug 2024)**
+*   Served as an algorithm developer in the vision group of the HXC team, a technical team under the dual-creation college laboratory.
+*   Developed the grain depot status recognition and seedling contour segmentation modules for the robot using OpenCV in the **ROBOCON-24 season**.
+*   Collaborated closely with team members, achieving a **National Third Prize** in the 'Grain to Granary' track.
+
+#### English Club | President 🗣️
+*   **(Aug 2024 - Present)**
+*   Led the restructuring and optimization of the club's organizational framework and updated the club's emblem.
+*   Planned and organized activities such as 'English Corner,' 'English Drama Showcase,' and 'English Dubbing Contest'.
+*   Our efforts led to the club being recognized as an 'Excellent Student Club' at the university level multiple times.
 
 ---
 
