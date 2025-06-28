@@ -1,4 +1,4 @@
-# <div align="center">Hi there, I'm Rongkang Zhou (周荣康) 👋</div>
+# <div align="center">Hi there, I'm 鄙人 👋</div>
 
 ### <p align="center">AI Engineer | Python, PyTorch, Computer Vision | Building intelligent systems for motion analysis, image processing, and 3D animation 🚀</p>
 
@@ -45,6 +45,7 @@ I'm a passionate and dedicated student at Chongqing University of Posts and Tele
 
 ---
 
+<!--
 ### 📜 My Pinned Repositories
 > **Note:** When you create new repositories, remember to add appropriate descriptions and documentation. Here are some placeholders for your top 4 pinned repos.
 
@@ -61,6 +62,7 @@ I'm a passionate and dedicated student at Chongqing University of Posts and Tele
 | **[View on GitHub](https://github.com/your-username/project-3)** | **[View on GitHub](https://github.com/your-username/project-4)** |
 
 </div>
+-->
 
 ---
 
