@@ -1,4 +1,4 @@
-# <div align="center">Hi there👋</div>
+# <div align="center">Hi there 👋</div>
 
 ### <p align="center">AI Engineer | Python, PyTorch, Computer Vision | Building intelligent systems for motion analysis, image processing, and 3D animation 🚀</p>
 
@@ -15,8 +15,9 @@ I'm a passionate and dedicated student at Chongqing University of Posts and Tele
 - 😄 Pronouns: He/Him
 
 <p align="center">
-  <a href="mailto:zrk3453743484@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your_linkedin_profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://space.bilibili.com/1215546748?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+  <a href="https://www.xiaohongshu.com/user/profile/6455967d000000001f031218?xsec_token=ABC1LXhfmTZxmCSai7rbXeNF_Rtl_xkqMTiYARiTSO0ww%3D&xsec_source=pc_search"><img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" /></a>
+  <a href="https://blog.csdn.net/2303_80183522?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-C30D23?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </p>
 
 ---
@@ -68,7 +69,7 @@ I'm a passionate and dedicated student at Chongqing University of Posts and Tele
 
 ### ✨ My Projects & Experience
 
-#### 🤖 “时空旋量”智能乒乓球运动分析系统 | `项目负责人`
+#### 🤖 "时空旋量"智能乒乓球运动分析系统 | `项目负责人`
 *   **赛事:** 第十六届服务外包创新创业大赛（企业A类-百度赛道）
 *   **时间:** 2025年3月 - 2025年5月
 *   **工作内容:**
@@ -86,7 +87,7 @@ I'm a passionate and dedicated student at Chongqing University of Posts and Tele
 *   **成就:** 在官方测试集实现PSNR 22.85dB、SSIM 0.902，MACs 29.3G，**综合排名第7**。
 
 #### 🦾 三维人体结构动画绑定自动化 | `点云网络算法工程师`
-*   **赛事:** “计图人工智能挑战赛”
+*   **赛事:** "计图人工智能挑战赛"
 *   **时间:** 2025年4月 - 至今
 *   **工作内容:**
     *   负责三维人体网格自动绑定项目，旨在替代传统3D动画流程中耗时巨大的人工Rigging环节。
