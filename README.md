@@ -40,8 +40,9 @@ I'm a passionate and dedicated student at Chongqing University of Posts and Tele
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.paddlepaddle.org.cn/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/paddlepaddle.svg" alt="paddlepaddle" width="40" height="40"/> </a>
-  <strong>Jittor, SPSS</strong>
+  <a href="https://www.paddlepaddle.org.cn/" target="_blank" rel="noreferrer"> <img src="https://paddlepaddle.org.cn/images/logo_icon.png" alt="paddlepaddle" width="40" height="40"/> </a>
+  <a href="https://cg.cs.tsinghua.edu.cn/jittor/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Jittor/jittor/master/assets/images/jittor_logo_alpha.png" alt="jittor" width="40" height="40"/> </a>
+  <strong>SPSS</strong>
 </p>
 
 ---
