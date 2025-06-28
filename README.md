@@ -1,4 +1,4 @@
-# <div align="center">Hi there, I'm 鄙人 👋</div>
+# <div align="center">Hi there👋</div>
 
 ### <p align="center">AI Engineer | Python, PyTorch, Computer Vision | Building intelligent systems for motion analysis, image processing, and 3D animation 🚀</p>
 
