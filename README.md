@@ -93,28 +93,6 @@ I'm a passionate and dedicated student at Chongqing University of Posts and Tele
 
 ---
 
-### 🧑‍💻 Student Work & Leadership
-
-#### 蓝山工作室-研发部 | Member 🏢
-*   **(Jul 2024 - Present)**
-*   As a member of the Python R&D department in a student technical team guided by the school's Information Office, I assist in the school's informatization construction.
-*   Taught public courses to new students on Python algorithms, data science, and deep learning.
-*   Participated in the algorithm design for the school's **graduate job recommendation system (based on LLM)**.
-
-#### HXC战队-视觉组 | Team Member 👁️
-*   **(Nov 2023 - Aug 2024)**
-*   Served as an algorithm developer in the vision group of the HXC team, a technical team under the dual-creation college laboratory.
-*   Developed the grain depot status recognition and seedling contour segmentation modules for the robot using OpenCV in the **ROBOCON-24 season**.
-*   Collaborated closely with team members, achieving a **National Third Prize** in the 'Grain to Granary' track.
-
-#### English Club | President 🗣️
-*   **(Aug 2024 - Present)**
-*   Led the restructuring and optimization of the club's organizational framework and updated the club's emblem.
-*   Planned and organized activities such as 'English Corner,' 'English Drama Showcase,' and 'English Dubbing Contest'.
-*   Our efforts led to the club being recognized as an 'Excellent Student Club' at the university level multiple times.
-
----
-
 ### 🏆 Honors & Awards
 
 -   🥇 **National First Prize**, 3rd "Tsinghua University Press Cup" University Student Algorithm Competition (Sep 2024)
@@ -125,3 +103,25 @@ I'm a passionate and dedicated student at Chongqing University of Posts and Tele
 -   🏅 **First Prize, Chongqing**, 7th "Chuanzhi Cup" National IT Skills Competition, AI Track (Mar 2025)
 -   🌟 **"Advanced Individual in Science and Technology Innovation"** Honorary Title, CQUPT (2023 - 2024)
 -   ...and over 10 other provincial and national awards! 🥳 
+
+---
+
+### 🧑‍💻 Student Work & Leadership
+
+#### 蓝山工作室-研发部🏢| Member 
+*   **(Jul 2024 - Present)**
+*   As a member of the Python R&D department in a student technical team guided by the school's Information Office, I assist in the school's informatization construction.
+*   Taught public courses to new students on Python algorithms, data science, and deep learning.
+*   Participated in the algorithm design for the school's **graduate job recommendation system (based on LLM)**.
+
+#### HXC战队-视觉组👁️| Team Member 
+*   **(Nov 2023 - Aug 2024)**
+*   Served as an algorithm developer in the vision group of the HXC team, a technical team under the dual-creation college laboratory.
+*   Developed the grain depot status recognition and seedling contour segmentation modules for the robot using OpenCV in the **ROBOCON-24 season**.
+*   Collaborated closely with team members, achieving a **National Third Prize** in the 'Grain to Granary' track.
+
+#### English Club🗣️| President 
+*   **(Aug 2024 - Present)**
+*   Led the restructuring and optimization of the club's organizational framework and updated the club's emblem.
+*   Planned and organized activities such as 'English Corner,' 'English Drama Showcase,' and 'English Dubbing Contest'.
+*   Our efforts led to the club being recognized as an 'Excellent Student Club' at the university level multiple times.
