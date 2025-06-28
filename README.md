@@ -76,7 +76,7 @@ I'm a passionate and dedicated student at Chongqing University of Posts and Tele
 *   **Achievement:** 🥉 Bronze Award, Western Region.
 
 #### 🔧 Lightweight Intelligent Image Denoising Algorithm | `Independent R&D`
-*   **Competition:** ZTE "Pěng Yuè" Cup
+*   **Competition:** ZTE "捧月" Cup
 *   **Duration:** Mar 2025 - May 2025
 *   **Contributions:**
     *   Designed a novel algorithm for image denoising in complex scenarios (e.g., low-light, motion blur) under strict 30G MACs computational constraints.
