@@ -1,6 +1,7 @@
 # <div align="center">Hi there 👋</div>
 
 ### <p align="center">AI Engineer | Python, PyTorch, Computer Vision | Building intelligent systems for motion analysis, image processing, and 3D animation 🚀</p>
+
 ---
 
 I'm a passionate and dedicated student at Chongqing University of Posts and Telecommunications, with a strong foundation in AI algorithms, data science, and software development. I thrive on solving complex problems and have a proven track record of success in various competitive programming and AI challenges. I'm always eager to learn, collaborate, and contribute to innovative projects. 😊
